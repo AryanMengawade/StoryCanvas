@@ -50,12 +50,9 @@ STORYCanvas is a web application designed to bring joy and entertainment to disa
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the application:
-   ```bash
-   python app.py
-   ```
 
-The application will launch in your default web browser.
+
+The application is ready launch in your default web browser.
 
 ## Usage
 
