@@ -1,0 +1,7 @@
+requests>=2.28.0
+spacy>=3.5.0
+beautifulsoup4>=4.11.1
+gradio>=3.12.1
+sentence-transformers>=2.2.0
+groq>=0.1.0
+python-docx>=0.8.11
