@@ -6,7 +6,8 @@ from PIL import Image
 
 import os
 
-
+GROQ_API_TOKEN = os.getenv("GROQ_API_TOKEN")
+HF_TOKEN = os.getenv("HF_TOKEN")
 
 
 
